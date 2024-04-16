@@ -29,18 +29,7 @@
     <?php include_once "parts/sidebar.php" ?>
       <!-- Main content --> 
       <div class="templatemo-content col-1 light-gray-bg">
-        <div class="templatemo-top-nav-container">
-          <div class="row">
-            <nav class="templatemo-top-nav col-lg-12 col-md-12">
-              <ul class="text-uppercase">
-                <li><a href="" class="active">Admin panel</a></li>
-                <li><a href="">Dashboard</a></li>
-                <li><a href="">Overview</a></li>
-                <li><a href="login.php">Sign in form</a></li>
-              </ul>  
-            </nav> 
-          </div>
-        </div>
+        <?php include_once "parts/nav.php" ?>
         <div class="templatemo-content-container">
           <div class="templatemo-flex-row flex-content-row">
             <div class="templatemo-content-widget white-bg col-2">
