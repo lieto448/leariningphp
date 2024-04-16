@@ -29,7 +29,7 @@
 	          <div class="square"></div>
 	          <h1>Visual Admin</h1>
 	        </header>
-	        <form action="index.html" class="templatemo-login-form">
+	        <form action="index.php" class="templatemo-login-form">
 	        	<div class="form-group">
 	        		<div class="input-group">
 		        		<div class="input-group-addon"><i class="fa fa-user fa-fw"></i></div>	        		

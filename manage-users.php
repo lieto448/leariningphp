@@ -48,13 +48,13 @@
           </div>
         <nav class="templatemo-left-nav">          
           <ul>
-            <li><a href="index.html"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
-            <li><a href="data-visualization.html"><i class="fa fa-bar-chart fa-fw"></i>Charts</a></li>
-            <li><a href="data-visualization.html"><i class="fa fa-database fa-fw"></i>Data Visualization</a></li>
-            <li><a href="maps.html"><i class="fa fa-map-marker fa-fw"></i>Maps</a></li>
+            <li><a href="index.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
+            <li><a href="data-visualization.php"><i class="fa fa-bar-chart fa-fw"></i>Charts</a></li>
+            <li><a href="data-visualization.php"><i class="fa fa-database fa-fw"></i>Data Visualization</a></li>
+            <li><a href="maps.php"><i class="fa fa-map-marker fa-fw"></i>Maps</a></li>
             <li><a href="#" class="active"><i class="fa fa-users fa-fw"></i>Manage Users</a></li>
-            <li><a href="preferences.html"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
-            <li><a href="login.html"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
+            <li><a href="preferences.php"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
+            <li><a href="login.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
           </ul>  
         </nav>
       </div>
@@ -67,7 +67,7 @@
                 <li><a href="" class="active">Admin panel</a></li>
                 <li><a href="">Dashboard</a></li>
                 <li><a href="">Overview</a></li>
-                <li><a href="login.html">Sign in form</a></li>
+                <li><a href="login.php">Sign in form</a></li>
               </ul>  
             </nav> 
           </div>
@@ -178,7 +178,7 @@
               <div class="panel panel-default margin-10">
                 <div class="panel-heading"><h2 class="text-uppercase">Login Form</h2></div>
                 <div class="panel-body">
-                  <form action="index.html" class="templatemo-login-form">
+                  <form action="index.php" class="templatemo-login-form">
                     <div class="form-group">
                       <label for="inputEmail">Email address</label>
                       <input type="email" class="form-control" id="inputEmail" placeholder="Enter email">

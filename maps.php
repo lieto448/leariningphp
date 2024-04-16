@@ -49,13 +49,13 @@
           </div>
         <nav class="templatemo-left-nav">          
           <ul>
-            <li><a href="index.html"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
-            <li><a href="data-visualization.html"><i class="fa fa-bar-chart fa-fw"></i>Charts</a></li>
-            <li><a href="data-visualization.html"><i class="fa fa-database fa-fw"></i>Data Visualization</a></li>
+            <li><a href="index.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
+            <li><a href="data-visualization.php"><i class="fa fa-bar-chart fa-fw"></i>Charts</a></li>
+            <li><a href="data-visualization.php"><i class="fa fa-database fa-fw"></i>Data Visualization</a></li>
             <li><a href="maps.html" class="active"><i class="fa fa-map-marker fa-fw"></i>Maps</a></li>
-            <li><a href="manage-users.html"><i class="fa fa-users fa-fw"></i>Manage Users</a></li>
-            <li><a href="preferences.html"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
-            <li><a href="login.html"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
+            <li><a href="manage-users.php"><i class="fa fa-users fa-fw"></i>Manage Users</a></li>
+            <li><a href="preferences.php"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
+            <li><a href="login.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
           </ul>  
         </nav>
       </div>
@@ -68,7 +68,7 @@
                 <li><a href="" class="active">Admin panel</a></li>
                 <li><a href="">Dashboard</a></li>
                 <li><a href="">Overview</a></li>
-                <li><a href="login.html">Sign in form</a></li>
+                <li><a href="login.php">Sign in form</a></li>
               </ul>  
             </nav> 
           </div>

@@ -48,13 +48,13 @@
           </div>
         <nav class="templatemo-left-nav">
           <ul>
-            <li><a href="index.html"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
-            <li><a href="data-visualization.html"><i class="fa fa-bar-chart fa-fw"></i>Charts</a></li>
-            <li><a href="data-visualization.html"><i class="fa fa-database fa-fw"></i>Data Visualization</a></li>
-            <li><a href="maps.html"><i class="fa fa-map-marker fa-fw"></i>Maps</a></li>
-            <li><a href="manage-users.html"><i class="fa fa-users fa-fw"></i>Manage Users</a></li>
+            <li><a href="index.php"><i class="fa fa-home fa-fw"></i>Dashboard</a></li>
+            <li><a href="data-visualization.php"><i class="fa fa-bar-chart fa-fw"></i>Charts</a></li>
+            <li><a href="data-visualization.php"><i class="fa fa-database fa-fw"></i>Data Visualization</a></li>
+            <li><a href="maps.php"><i class="fa fa-map-marker fa-fw"></i>Maps</a></li>
+            <li><a href="manage-users.php"><i class="fa fa-users fa-fw"></i>Manage Users</a></li>
             <li><a href="#" class="active"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
-            <li><a href="login.html"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
+            <li><a href="login.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
           </ul>
         </nav>
       </div>
@@ -67,7 +67,7 @@
                 <li><a href="" class="active">Admin panel</a></li>
                 <li><a href="">Dashboard</a></li>
                 <li><a href="">Overview</a></li>
-                <li><a href="login.html">Sign in form</a></li>
+                <li><a href="login.php">Sign in form</a></li>
               </ul>
             </nav>
           </div>
@@ -76,7 +76,7 @@
           <div class="templatemo-content-widget white-bg">
             <h2 class="margin-bottom-10">Preferences</h2>
             <p>Here goes another form and form controls.</p>
-            <form action="index.html" class="templatemo-login-form" method="post" enctype="multipart/form-data">
+            <form action="index.php" class="templatemo-login-form" method="post" enctype="multipart/form-data">
               <div class="row form-group">
                 <div class="col-lg-6 col-md-6 form-group">                  
                     <label for="inputFirstName">First Name</label>
